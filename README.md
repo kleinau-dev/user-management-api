@@ -56,7 +56,7 @@ Endpoint responsável por autenticar o usuário e gerar o token JWT:
 POST /login
 
 Exemplo de body:
-```json
+
 {
   "email": "usuario@email.com",
   "password": "123456"
