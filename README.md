@@ -56,7 +56,7 @@ Endpoint responsável por autenticar o usuário e gerar o token JWT:
 POST /login
 
 Exemplo de body:
-
+```json
 {
   "email": "usuario@email.com",
   "password": "123456"
@@ -95,7 +95,7 @@ user-management-api/
 │   └── index.html
 ├── README.md
 └── venv/
-
+´´´´
 Como Executar o Projeto
 
 1 - Clonar o repositório
