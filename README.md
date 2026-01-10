@@ -95,7 +95,6 @@ user-management-api/
 │   └── index.html
 ├── README.md
 └── venv/
-```json
 
 Como Executar o Projeto
 
