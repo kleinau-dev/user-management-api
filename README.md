@@ -95,7 +95,8 @@ user-management-api/
 │   └── index.html
 ├── README.md
 └── venv/
-´´´
+```json
+
 Como Executar o Projeto
 
 1 - Clonar o repositório
